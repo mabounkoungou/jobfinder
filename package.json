@@ -1,0 +1,25 @@
+{
+  "name": "findjobs",
+  "version": "1.0.0",
+  "description": "Awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabounkoungou/findjobs.git"
+  },
+  "keywords": [
+    "Jobs",
+    "job",
+    "get",
+    "job"
+  ],
+  "author": "Lyndon Yaotey, Prince, Kojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabounkoungou/findjobs/issues"
+  },
+  "homepage": "https://github.com/mabounkoungou/findjobs#readme"
+}
